@@ -3,7 +3,7 @@
 My name is Max Anisimov, I am a Frontend developer. For more detailed information, contact Telegram.
 The technology stack I work with can be seen below.
 <div align="left">
-![REDUX]<img src="{https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white}" />
+<img src="{https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white}" />
 </div>
 <!--
 **makc-anisimov/makc-anisimov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

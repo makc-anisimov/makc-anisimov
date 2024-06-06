@@ -1,4 +1,7 @@
 ### Hi there 👋
+
+My name is Max Anisimov, I am a Frontend developer. For more detailed information, contact Telegram.
+The technology stack I work with can be seen below.
 <div align="center">
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/192107856-aa92c8b1-b615-47c3-9141-ed0d29a90239.png" alt="GraphQL" title="GraphQL"/></code>
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" alt="Git" title="Git"/></code>
